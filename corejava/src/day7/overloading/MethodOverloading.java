@@ -1,7 +1,8 @@
-
+//Program to demonstrate method overloading  - Compile Time Polymorphism
 package day7.overloading;
 
 public class MethodOverloading {
+
 	public static int addition(int a, int b) {
 		return a + b;
 	}
@@ -21,4 +22,5 @@ public class MethodOverloading {
 	public static String addition(String a, String b) {
 		return a + b;
 	}
+
 }
