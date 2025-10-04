@@ -1,4 +1,4 @@
-package day7.overriding;
+package day7.overriding.v1;
 public class ICICI extends RBI {
 	@Override
 	public float getRateOfInterest() {
